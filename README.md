@@ -2,8 +2,12 @@
 
 Este projeto foi desenvolvido como parte do curso de Fundamentos de Linguagem Python para Análise de Dados e Data Science da Data Science Academy (DSA).
 
-## Definicao do Problema
-O objetivo central deste trabalho é transformar dados brutos de transações de uma loja de e-commerce em informações estratégicas. A análise aborda a falta de visibilidade sobre a performance do negócio, auxiliando na transição de decisões baseadas em intuição para decisões baseadas em evidências e dados reais.
+## Definição do Problema
+* Gestão de estoque ineficiente;
+* Marketing com baixo retorno;
+* Perdas de oportunidades sazonais;
+* Expansão sem direção.
+
 
 ## Objetivo do projeto
 * Identificar quais produtos possuem melhor desempenho de vendas;
@@ -27,7 +31,7 @@ Com base na estrutura do projeto, foram aplicadas as seguintes técnicas:
 * Data Storytelling e Visualização Gráfica;
 * Interpretação de Resultados Estratégicos (KPIs de e-commerce).
 
-## Resultados e visualizações
+## Visualização 
 ![Evolução do faturamento Mensal](faturamentomensal.png)
 
 ![Faturamento por Estado](faturamentoestado.png)
